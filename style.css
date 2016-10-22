@@ -1,1 +1,33 @@
+a {
+    text-decoration: none;
+}
 
+p {
+    background-color: lightblue;
+}
+
+th {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.fall {
+    background-color: black;
+    color: white;
+}
+
+.spring {
+    background-color: black;
+    color: white;
+}
+
+table,
+th,
+td {
+    border: 1px solid black
+}
+
+h3 {
+    padding-left: 220px;
+}
